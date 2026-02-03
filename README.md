@@ -1,22 +1,38 @@
-# Hi there 👋, I'm Vamshi Reddy. Nice to meet you!
+<h1 align="center">Hi 👋, I'm Vamshi Reddy</h1>
 
-![Cloud Automation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-
-
-<h1 align="center"></h1>
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*MctX_ekrSoGXHMygb-eUzg.gif" 
+       alt="Cloud Automation & IaC" 
+       width="580"/>
+</div>
 
 <h3 align="center">
-Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
+Senior DevOps & Cloud Engineer | Automating Infrastructure | Reliable Systems at Scale
 </h3>
 
-<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
-
-<p align="left">
-<!-- <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" /> -->
+<p align="center">
+  <strong>Terraform · Kubernetes · AWS · GitOps · Observability · Platform Engineering</strong>
 </p>
 
----
+<br><br>
+
+<div style="float: right; margin: 30px 0 20px 30px;">
+  <img alt="DevOps Automation" 
+       width="360" 
+       src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+  <p align="left">
+
+</div>
+
+<!-- Optional: you can add some text next to the floating gif if you want -->
+<!-- 
+<p>
+  Passionate about building scalable, observable, and automated cloud platforms.<br>
+  Turning infrastructure into code since forever ☁️⚙️
+</p>
+-->
+<!-- <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" /> -->
+</p>
 
 <h2>👨‍💻 About Me</h2>
 

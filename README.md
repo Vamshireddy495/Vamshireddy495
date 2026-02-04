@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-Senior DevOps & Cloud Engineer | Automating Infrastructure | Reliable Systems at Scale
+Senior DevOps & Site Reliability Engineer | Automating Infrastructure | Reliable Systems at Scale
 </h3>
 
 <p align="center">

@@ -99,6 +99,8 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@iamvamshi0604/when-single-terraform-state-per-environment-becomes-your-biggest-risk-b00c7121ca99
+
 https://medium.com/@iamvamshi0604/building-a-full-stack-banking-app-with-fastapi-htmx-tailwind-a-practical-guide-f128cf01b8f1
 <!-- BLOG-POST-LIST:END -->
 
